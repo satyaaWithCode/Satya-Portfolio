@@ -17,7 +17,7 @@ export default function Footer() {
       {/* Social Icons */}
       <div className="flex justify-center gap-6 mb-4 relative z-10">
         <a
-          href="https://www.linkedin.com/in/satyabra2993012b2"
+          href="https://www.linkedin.com/in/satyabrata-behera-2993012b2"
           target="_blank"
           rel="noopener noreferrer"
           className="text-yellow-300 text-2xl hover:text-yellow-400 transition-transform transform hover:scale-110"
