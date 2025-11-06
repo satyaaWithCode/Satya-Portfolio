@@ -29,7 +29,7 @@ export default function About() {
         >
           I’m an <span className="text-yellow-300 font-semibold">enthusiastic Java Full Stack Developer </span> 
            with a strong focus on backend development, eager to build scalable and secure applications.  
-          Skilled in <span className="text-cyan-300 font-semibold">Java, Spring Boot, Kafka, React.js, and Tailwind CSS</span>,  
+          Skilled in <span className="text-cyan-300 font-semibold">Java, Spring Boot, Kafka, React.js,Next.js and Tailwind CSS</span>,  
           I love crafting elegant solutions that blend performance and design.
         </motion.p>
 
@@ -46,11 +46,11 @@ export default function About() {
           </div>
           <div className="p-6 bg-white/10 backdrop-blur-md rounded-xl shadow-lg hover:scale-105 hover:bg-white/20 transition-transform duration-300">
             <h3 className="text-xl font-bold text-yellow-300 mb-2">Frontend</h3>
-            <p className="text-gray-200">React.js, Tailwind CSS, Responsive UI , MUI</p>
+            <p className="text-gray-200">React.js, Tailwind CSS, Responsive UI , MUI , Next.js</p>
           </div>
           <div className="p-6 bg-white/10 backdrop-blur-md rounded-xl shadow-lg hover:scale-105 hover:bg-white/20 transition-transform duration-300">
             <h3 className="text-xl font-bold text-yellow-300 mb-2">Tools</h3>
-            <p className="text-gray-200">Git, Docker, Sql, Jenkins , Render , Netlifly</p>
+            <p className="text-gray-200">Git, Docker, Sql, Jenkins , Render , Netlifly,vercel</p>
           </div>
         </motion.div>
       </div>
